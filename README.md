@@ -20,6 +20,14 @@
     <a href="https://www.linkedin.com/in/dung-tran-45a6a4316/">
       <img src="https://img.shields.io/badge/LinkedIn-Dung%20Tran-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
+    <a href="./CV.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View%20CV-PDF-f40f02?style=flat&logo=adobeacrobatreader&logoColor=white" alt="View CV" />
+    </a>
+    &nbsp;
+    <a href="./CV.pdf" download>
+      <img src="https://img.shields.io/badge/Download%20CV-PDF-f40f02?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+    </a>
   </p>
 
 </div>
