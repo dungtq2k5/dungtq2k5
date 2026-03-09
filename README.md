@@ -36,36 +36,36 @@ Third-year IT student at **Sài Gòn University** with proficiency in JavaScript
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-4285F4?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Experienced-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-Familiar-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Familiar-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Familiar-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-007acc?style=flat&logo=typescript&logoColor=007acc)
+![JavaScript](https://img.shields.io/badge/JavaScript-Experienced-f7df1e?style=flat&logo=javascript&logoColor=f7df1e)
+![C++](https://img.shields.io/badge/C++-Familiar-5599ff?style=flat&logo=cplusplus&logoColor=5599ff)
+![Java](https://img.shields.io/badge/Java-Familiar-ED8B00?style=flat&logo=openjdk&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/PHP-Familiar-4f5b93?style=flat&logo=php&logoColor=8892BE)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61dbfb)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=flat&logo=bootstrap&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs&logoColor=6cc24a)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=flat&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-EF5B25?style=flat&logo=postman&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 ---
 
@@ -81,11 +81,11 @@ A high-fidelity, production-ready e-commerce system built from the ground up, de
 - **Security & Auth:** Implemented secure authentication via **JWT / Refresh Tokens** and a **RBAC (Role-Based Access Control)** system to strictly separate buyer and admin permissions.
 - **Frontend:** Built a seamless, responsive UI with **React and Bootstrap**, featuring dynamic search filtering and real-time cart calculations.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=6cc24a)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61dbfb)
+![JWT](https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 <div align="right">
 
@@ -108,11 +108,11 @@ A complete end-to-end web application covering core e-commerce must-haves — au
 - **Security & Auth:** Implemented **JWT authentication** and **RBAC** to secure the admin dashboard and manage inventory data effectively.
 - **Frontend:** Enhanced interactivity with **jQuery and Bootstrap**, delivering a responsive experience across all devices.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=flat-square&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 <div align="right">
 
@@ -135,9 +135,9 @@ A fully client-side storefront built without any frameworks, replicating core dy
 - **Simulated Persistence:** Engineered backend-like data retention using **Local Storage**, enabling cart state and data to persist across browser sessions — without a database.
 - **Responsive UI:** Built a fully responsive layout from scratch, without any CSS framework, ensuring visual consistency across all viewports.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript&logoColor=f7df1e)
 
 <div align="right">
 
