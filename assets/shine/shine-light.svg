@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="694" height="44" viewBox="0 0 694 44" role="img" aria-label="Backend Developer · Microservices, DevOps &amp; Applied AI">
+  <defs>
+    <!-- Dim base text with a Nyan Cat rainbow beam; sliding one period left-to-right loops seamlessly. -->
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0" spreadMethod="repeat">
+      <stop offset="30%" stop-color="#8c959f"/>
+      <stop offset="35%" stop-color="#ff0000"/>
+      <stop offset="41%" stop-color="#ff9900"/>
+      <stop offset="47%" stop-color="#22cc00"/>
+      <stop offset="53%" stop-color="#0099ff"/>
+      <stop offset="59%" stop-color="#6633ff"/>
+      <stop offset="65%" stop-color="#ff33cc"/>
+      <stop offset="71%" stop-color="#8c959f"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-900 0" to="0 0" dur="2.2s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text x="347" y="29" text-anchor="middle" fill="url(#g)" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="900" letter-spacing="0.2">Backend Developer · Microservices, DevOps &amp; Applied AI</text>
+</svg>

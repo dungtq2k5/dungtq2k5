@@ -2,9 +2,16 @@
 
   <img src="https://github.com/dungtq2k5.png" width="120" height="120" alt="Trần Quang Dũng" />
 
-  <h1>Trần Quang Dũng</h1>
+  <h1>
+    <img src="assets/gif/nyan-cat-rainbow-transparent.gif" height="40" alt="nyan cat rainbow animated" />
+    Trần Quang Dũng
+    <img src="assets/gif/nyan-cat-rainbow-transparent-flipped.gif" height="40" alt="nyan cat rainbow animated flipped" />
+  </h1>
 
-  <h3>Backend Developer &nbsp;·&nbsp; Microservices, DevOps &amp; Applied AI</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/shine/shine-dark.svg" />
+    <img src="assets/shine/shine-light.svg" width="694" alt="Backend Developer · Microservices, DevOps &amp; Applied AI" />
+  </picture>
 
   <p>Hoc Mon, Ho Chi Minh City, Vietnam &nbsp;·&nbsp; Final-year IT Student at Sài Gòn University</p>
 
@@ -35,6 +42,8 @@
 ---
 
 ## About Me
+
+<img src="assets/gif/cat-hardcore.gif" align="right" width="150" alt="Cat hacking on a laptop" />
 
 I started on the backend and learned just enough frontend to demo systems end to end — the [smartwatch platform](https://github.com/dungtq2k5/smartwatch-e-commerce) from my second year was that first serious full-stack build (in my opinion), before "vibe coding" had a name.
 
@@ -141,7 +150,7 @@ I build **microservices** — TypeScript across the services, Python where retri
 
 <div align="right">
 
-| <a href="https://github.com/dungtq2k5/synapse-desk/tree/main-java"><img src="assets/qr/png/synapse-desk.png" width="130" alt="Repository QR" /></a> | <a href="https://synapsedeskapp.com"><img src="assets/qr/png/synapse-desk-demo.png" width="130" alt="Live demo QR" /></a> |
+| <a href="https://github.com/dungtq2k5/synapse-desk/tree/main-java"><img src="assets/qr/synapse-desk.svg" width="130" alt="Repository QR" /></a> | <a href="https://synapsedeskapp.com"><img src="assets/qr/synapse-desk-demo.svg" width="130" alt="Live demo QR" /></a> |
 | :---: | :---: |
 | [*Repo*](https://github.com/dungtq2k5/synapse-desk/tree/main-java) | [*Live demo*](https://synapsedeskapp.com) |
 
@@ -177,7 +186,7 @@ I build **microservices** — TypeScript across the services, Python where retri
 
 <div align="right">
 
-| <a href="https://github.com/dungtq2k5/wayfare"><img src="assets/qr/png/wayfare.png" width="130" alt="Repository QR" /></a> |
+| <a href="https://github.com/dungtq2k5/wayfare"><img src="assets/qr/wayfare.svg" width="130" alt="Repository QR" /></a> |
 | :---: |
 | <sub>[*Repo*](https://github.com/dungtq2k5/wayfare)</sub> |
 
@@ -212,7 +221,7 @@ I build **microservices** — TypeScript across the services, Python where retri
 
 <div align="right">
 
-| <a href="https://github.com/dungtq2k5/brewlite"><img src="assets/qr/png/brewlite.png" width="130" alt="Repository QR" /></a> |
+| <a href="https://github.com/dungtq2k5/brewlite"><img src="assets/qr/brewlite.svg" width="130" alt="Repository QR" /></a> |
 | :---: |
 | <sub>[*Repo*](https://github.com/dungtq2k5/brewlite)</sub> |
 
@@ -244,7 +253,7 @@ I build **microservices** — TypeScript across the services, Python where retri
 
 <div align="right">
 
-| <a href="https://github.com/dungtq2k5/smartdoc-ai"><img src="assets/qr/png/smartdoc-ai.png" width="130" alt="Repository QR" /></a> |
+| <a href="https://github.com/dungtq2k5/smartdoc-ai"><img src="assets/qr/smartdoc-ai.svg" width="130" alt="Repository QR" /></a> |
 | :---: |
 | <sub>[*Repo*](https://github.com/dungtq2k5/smartdoc-ai)</sub> |
 
@@ -288,5 +297,6 @@ Expected Graduation: **2027**
 ---
 
 <div align="center">
+  <img src="assets/gif/cat-hit-enter-key.gif" width="100" alt="Cat hitting the Enter key" /><br />
   <sub>Open to internship & junior developer opportunities &nbsp;·&nbsp; <a href="mailto:dungtranquang2005@gmail.com?subject=Hello World from employer&body=Show me your skill so I can decide to hire u">Let's connect ≽(◉˕ ◉ ≼マ</a></sub>
 </div>
